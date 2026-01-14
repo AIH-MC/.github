@@ -71,6 +71,6 @@
     - **搜打撤**：包含搜打撤玩法所需的模组和资源包，玩家可以体验类似《逃离塔科夫》的玩法，目前处于建设中（甚至地图还没有开建），欢迎参与建设和测试，进入方式是 ``/server tkv`` 。
 
 **客户端下载地址**
-[https://pan.acgnai.top/AIHMC](https://pan.acgnai.top/AIHMC)
+  - [https://pan.acgnai.top/AIHMC](https://pan.acgnai.top/AIHMC)
 ### 服务器交流群
 **QQ群**：[点击加入【AI Hobbyist MC分部】](https://qm.qq.com/q/M7d6jhdgYK) (群号：545515934)
