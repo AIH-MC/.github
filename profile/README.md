@@ -1,12 +1,76 @@
-## Hi there 👋
+# 游玩前须知（必读，不照做则无法进服）
+欢迎来到 AI Hobbyist MC 服务器！这是一个由 [AI Hobbyist](https://github.com/AI-Hobbyist) 运营的 Minecraft 服务器，旨在为玩家提供一个充满创意和乐趣的游戏环境。在这里，你可以与来自世界各地的玩家一起探索、建造和冒险，本服完全公益，一切内容都只能通过自己的努力获取。
+## 服务器信息
+### 连接地址
+- **国内玩家**：mc.aihmc.top
+- **国际玩家**：gb.aihmc.top
+### 服务器版本
+- **Minecraft 1.20.1~1.21.x**
+### 服务器类型
+- **类型**：群组服务器
+- **盈利模式**：非盈利公益服。
+- **玩法**
+  - **已稳定：** 纯净生存；
+  - **建设中：** 搜打撤（类塔科夫玩法）；
+  - **规划中：** 小游戏、空岛生存、模组整合包等。
+### 支持的登录方式
+- **正版登录**：
+  - 支持 Microsoft 账号登录，请选择 **微软账户** 登录方式，登录前请确保已购买正版；
+  - 如果没有正版账号，可以参考 [如何购买 Minecraft](https://www.minecraft.net/zh-hans/get-minecraft)，不想购买可选择 **外置登录**。
+  - **友情提示**
+    - 如果有能力请 **支持正版** 以享受 **Mojang** 官方支持！
+    - **正版登录** 不需要在游戏内使用 ``/register`` 和 ``/login`` 命令注册登录，进服即玩。
+    - 通过指令 ``/multilogin reanme <新玩家名>`` 可修改服务器内玩家名，且不丢失数据，**支持中文玩家名**；
+    - 服务器已 **完美支持中文玩家名**，且可交互，例如直接 ``/tpa 中文玩家名``。
+- **外置登录**
+  - **AI Hobbyist 账号**：请在 [https://u.ai-hobbyist.com/register](https://u.ai-hobbyist.com/register) 注册，认证服务器请选择 **AI Hobbyist**；
+  - **LittleSkin 账号**：请在 [https://littleskin.cn/auth/register](https://littleskin.cn/auth/register) 注册，认证服务器请选择 **LittleSkin**。
+  - **友情提示**
+    - **外置登录** 同样不需要在游戏内使用 ``/register`` 和 ``/login`` 命令注册登录，进服即玩。
+    - 通过指令 ``/multilogin reanme <新玩家名>`` 可修改服务器内玩家名，且不丢失数据，**支持中文玩家名**；对于外置登录，如果想用 **中文玩家名** 建议直接注册时候就用 **中文用户名**，这样就不需要指令改名了；
+    - 服务器已 **完美支持中文玩家名**，且可交互，例如直接 ``/tpa 中文玩家名``。
+- **离线登录**：
+  - 为保证 **账号安全** 本服不支持只需玩家名的离线登录方式且不支持 ``/register`` 和 ``/login`` 命令注册登录，请选择 **正版登录** 或 **外置登录** 方式。
+### 支持的皮肤来源
+  - **Mojang**：请在 [https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin) 上传皮肤；
+  - **AI Hobbyist**：请在 [https://skin.aihmc.top/user/closet](https://skin.aihmc.top/user/closet) 上传皮肤，可用 **AI Hobyist 账号** 直接登录；
+  - **LittleSkin**：请在 [https://littleskin.cn/user/closet](https://littleskin.cn/user/closet) 上传皮肤。
+### 服务器守则
+**绝对公益，拒绝氪金**  
+> 本服严禁任何形式的商业行为。点券（全服金币）仅通过游戏行为获取，与 Vault 货币（子服金币）互通。任何试图进行金钱交易的行为将被立即永久封禁。 
 
-<!--
+**尊重他人，拒绝破坏**
+> 禁止未经许可破坏他人建筑（Griefing）、偷窃物资或恶意骚扰。自由建立在不侵犯他人权益的基础之上。
 
-**Here are some ideas to get you started:**
+**公平竞技，拒绝作弊**
+> 严禁使用任何破坏游戏平衡的第三方辅助（如透视、飞行、自动战斗等）。我们追求技术与生电的魅力，而非脚本的虚荣。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**文明交流，拒绝不当言论**
+> 禁止发布任何形式的歧视、侮辱、政治敏感或不雅内容。请保持友善和尊重，营造积极的社区氛围。
+### 客户端整合包使用说明
+**安装步骤**
+>为了方便使用和更新，整合包已换成自动更新整合包，只需安装一次即可，后续更新均通过启动器自动完成。
+  1. 下载并解压 **已配置启动器(HMCL).zip**；
+  2. 下载并安装 **Java 17 或更高版本**（如果没有安装的话）；
+  3. 下载想要的 **.zip** 整合包（仅第一次）；
+  4. 将 **.zip** 文件拖入启动器窗口，等待导入完成（仅第一次）；
+  5. 选择对应的版本，登录账号，然后点击 **启动** 即可，第一次启动会自动下载资源。
+
+**Java下载**
+  - **Java 17，模组服推荐**：[https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html](https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html)
+  - **Java 21，纯净服推荐**：[https://www.oracle.com/cn/java/technologies/downloads/#java21](https://www.oracle.com/cn/java/technologies/downloads/#java21)
+
+**关于 “已配置启动器(HMCL)”**
+  - 该启动器已经预配置好了一些常用的设置，例如：外置登录API，无需手动添加；
+  - 如果需要修改设置，可以在启动器的 **设置** 菜单中进行调整。
+
+**关于 “测试用的整合包”**
+  - 目前服务器正在测试一些玩法，玩家可以下载并使用这些整合包进入对应子服游玩，但请注意这些子服可能存在不稳定或不完善的情况，并且更新频繁（例如增删模组等），这种一般用于模组测试或参与建设。
+  - 测试子服默认 **全员管理员**，以便玩家测试和参与建设，正式运营后会 **重置权限并删除当前子服个人档案**。
+  - 目前测试中的整合包包括但不限于：
+    - **搜打撤**：包含搜打撤玩法所需的模组和资源包，玩家可以体验类似《逃离塔科夫》的玩法，目前处于建设中（甚至地图还没有开建），欢迎参与建设和测试，进入方式是 ``/server tkv`` 。
+
+**客户端下载地址**
+[https://pan.acgnai.top/AIHMC](https://pan.acgnai.top/AIHMC)
+### 服务器交流群
+**QQ群**：[点击加入【AI Hobbyist MC分部】](https://qm.qq.com/q/M7d6jhdgYK) (群号：545515934)
