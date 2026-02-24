@@ -49,20 +49,16 @@
 > 禁止发布任何形式的歧视、侮辱、政治敏感或不雅内容。请保持友善和尊重，营造积极的社区氛围。
 ### 客户端整合包使用说明
 **安装步骤**
->为了方便使用和更新，整合包已换成自动更新整合包，只需安装一次即可，后续更新均通过启动器自动完成。
-  1. 下载并解压 **已配置启动器(HMCL).zip**；
+>每次更新都需要安装新整合包。
+  1. 下载并解压 **Plain Craft Launcher 2.exe**；
   2. 下载并安装 **Java 17 或更高版本**（如果没有安装的话）；
   3. 下载想要的 **.zip** 整合包（仅第一次）；
   4. 将 **.zip** 文件拖入启动器窗口，等待导入完成（仅第一次）；
-  5. 选择对应的版本，登录账号，然后点击 **启动** 即可，第一次启动会自动下载资源。
+  5. 选择对应的版本，登录账号，然后点击 **启动** 即可。
 
 **Java下载**
   - **Java 17，模组服推荐**：[https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html](https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html)
   - **Java 21，纯净服推荐**：[https://www.oracle.com/cn/java/technologies/downloads/#java21](https://www.oracle.com/cn/java/technologies/downloads/#java21)
-
-**关于 “已配置启动器(HMCL)”**
-  - 该启动器已经预配置好了一些常用的设置，例如：外置登录API，无需手动添加；
-  - 如果需要修改设置，可以在启动器的 **设置** 菜单中进行调整。
 
 **关于 “测试用的整合包”**
   - 目前服务器正在测试一些玩法，玩家可以下载并使用这些整合包进入对应子服游玩，但请注意这些子服可能存在不稳定或不完善的情况，并且更新频繁（例如增删模组等），这种一般用于模组测试或参与建设。
