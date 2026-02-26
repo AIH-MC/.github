@@ -9,6 +9,11 @@
 ### 服务器类型
 - **类型**：群组服务器
 - **盈利模式**：非盈利公益服。
+- **玩家自定义模型支持**
+  - **基于模组：** Figura[（https://modrinth.com/mod/figura）](https://modrinth.com/mod/figura)
+  - **文本教程：** [https://fig.aihmc.top](https://fig.aihmc.top/)
+  - **视频教程：** [https://www.bilibili.com/video/BV11MU1BsEzS](https://www.bilibili.com/video/BV11MU1BsEzS)
+  - **后端地址（复制到Figura设置界面）**：5d.aihmc.top
 - **玩法**
   - **已稳定：** 纯净生存；
   - **建设中：** 搜打撤（类塔科夫玩法）；
