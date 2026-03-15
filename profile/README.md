@@ -21,21 +21,19 @@
 ### 支持的登录方式
 - **正版登录**：
   - 支持 Microsoft 账号登录，请选择 **微软账户** 登录方式，登录前请确保已购买正版；
-  - 如果没有正版账号，可以参考 [如何购买 Minecraft](https://www.minecraft.net/zh-hans/get-minecraft)，不想购买可选择 **外置登录**。
+  - 如果没有正版账号，可以参考 [如何购买 Minecraft](https://www.minecraft.net/zh-hans/get-minecraft)，不想购买可选择 **外置登录** 或 **离线登录**。
   - **友情提示**
     - 如果有能力请 **支持正版** 以享受 **Mojang** 官方支持！
     - **正版登录** 不需要在游戏内使用 ``/register`` 和 ``/login`` 命令注册登录，进服即玩。
-    - 通过指令 ``/multilogin reanme <新玩家名>`` 可修改服务器内玩家名，且不丢失数据，**支持中文玩家名**；
-    - 服务器已 **完美支持中文玩家名**，且可交互，例如直接 ``/tpa 中文玩家名``。
 - **外置登录**
   - **AI Hobbyist 账号**：请在 [https://u.ai-hobbyist.com/register](https://u.ai-hobbyist.com/register) 注册，认证服务器请选择 **AI Hobbyist**；
   - **LittleSkin 账号**：请在 [https://littleskin.cn/auth/register](https://littleskin.cn/auth/register) 注册，认证服务器请选择 **LittleSkin**。
   - **友情提示**
     - **外置登录** 同样不需要在游戏内使用 ``/register`` 和 ``/login`` 命令注册登录，进服即玩。
-    - 通过指令 ``/multilogin reanme <新玩家名>`` 可修改服务器内玩家名，且不丢失数据，**支持中文玩家名**；对于外置登录，如果想用 **中文玩家名** 建议直接注册时候就用 **中文用户名**，这样就不需要指令改名了；
-    - 服务器已 **完美支持中文玩家名**，且可交互，例如直接 ``/tpa 中文玩家名``。
-- **离线登录**：
-  - 为保证 **账号安全** 本服不支持只需玩家名的离线登录方式且不支持 ``/register`` 和 ``/login`` 命令注册登录，请选择 **正版登录** 或 **外置登录** 方式。
+- **离线登录（新增支持）**：
+  - 如果想要快速体验，可使用 ``/register`` 和 ``/login`` 命令注册登录。离线登录方式名字**不能和已有的外置登录或正版登录重复**，如果登录时候提示“无效会话”，请**更换名字**。
+- **其它提示**
+  - 服务器已 **完美支持中文玩家名**，且可交互，例如直接 ``/tpa 中文玩家名``
 ### 支持的皮肤来源
   - **Mojang**：请在 [https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin) 上传皮肤；
   - **AI Hobbyist**：请在 [https://skin.aihmc.top/user/closet](https://skin.aihmc.top/user/closet) 上传皮肤，可用 **AI Hobyist 账号** 直接登录；
