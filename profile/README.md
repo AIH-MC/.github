@@ -34,6 +34,7 @@
   - 如果想要快速体验，可使用 ``/register`` 和 ``/login`` 命令注册登录。离线登录方式名字**不能和已有的外置登录或正版登录重复**，如果登录时候提示“无效会话”，请**更换名字**。
 - **其它提示**
   - 服务器已 **完美支持中文玩家名**，且可交互，例如直接 ``/tpa 中文玩家名``
+  - 如果后续入正了或离线登录改用外置登录了，可以找服主帮忙迁移数据
 ### 支持的皮肤来源
   - **Mojang**：请在 [https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin) 上传皮肤；
   - **AI Hobbyist**：请在 [https://skin.aihmc.top/user/closet](https://skin.aihmc.top/user/closet) 上传皮肤，可用 **AI Hobyist 账号** 直接登录；
