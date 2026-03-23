@@ -5,17 +5,16 @@
 - **国内玩家**：mc.aihmc.top
 - **国际玩家**：gb.aihmc.top
 ### 服务器版本
-- **Minecraft 1.20.1~1.21.x**
+- **Minecraft 1.20.1~1.21.11**
 ### 服务器类型
 - **类型**：群组服务器
 - **盈利模式**：非盈利公益服。
-- **玩家自定义模型支持**
-  - **基于模组：** Figura[（https://modrinth.com/mod/figura）](https://modrinth.com/mod/figura)
+- **玩家自定义模型/4D皮肤/5D皮肤支持**
+  - **基于模组：** Figura [（点击前往下载模组）](https://pan.acgnai.top/AIHMC/4D%E7%9A%AE%E8%82%A4%E6%A8%A1%E7%BB%84(Figura))
   - **文本教程：** [https://fig.aihmc.top](https://fig.aihmc.top/)
   - **视频教程：** [https://www.bilibili.com/video/BV11MU1BsEzS](https://www.bilibili.com/video/BV11MU1BsEzS)
-  - **后端地址（复制到Figura设置界面）**：5d.aihmc.top
 - **玩法**
-  - **已稳定：** 纯净生存；
+  - **已稳定：** 纯净生存，1.21.11开荒；
   - **建设中：** 搜打撤（类塔科夫玩法）；
   - **规划中：** 小游戏、空岛生存、模组整合包等。
 ### 支持的登录方式
@@ -27,18 +26,20 @@
     - **正版登录** 不需要在游戏内使用 ``/register`` 和 ``/login`` 命令注册登录，进服即玩。
 - **外置登录（已有如下任意外置登录账号推荐）**
   - **AI Hobbyist 账号**：请在 [https://u.ai-hobbyist.com/register](https://u.ai-hobbyist.com/register) 注册，认证服务器请选择 **AI Hobbyist**；
-  - **LittleSkin 账号**：请在 [https://littleskin.cn/auth/register](https://littleskin.cn/auth/register) 注册，认证服务器请选择 **LittleSkin**。
+  - **LittleSkin 账号**：请在 [https://littleskin.cn/auth/register](https://littleskin.cn/auth/register) 注册，认证服务器请选择 **LittleSkin**;
+  - **Ely.by 账号**：请在 [https://account.ely.by/register](https://account.ely.by/register) 注册，认证服务器请选择 **Ely.by**;
   - **友情提示**
     - **外置登录** 同样不需要在游戏内使用 ``/register`` 和 ``/login`` 命令注册登录，进服即玩。
 - **离线登录（快速体验推荐）**：
-  - 进服后，使用 ``/register`` 和 ``/login`` 命令注册登录。离线登录方式名字**不能和已有的外置登录或正版登录重复**，如果登录时候提示“无效会话”，请**更换名字**。
+  - 进服后，使用 ``/register`` 和 ``/login`` 命令注册登录。离线登录方式名字**不能和已有的外置登录或正版登录重复**，如果登录时候被踢出并提示“玩家名冲突”，请按照指引**测试并更换名字**。
 - **其它提示**
   - 服务器已 **完美支持中文玩家名**，且可交互，例如直接 ``/tpa 中文玩家名``
   - 如果后续入正了或离线登录改用外置登录了，可以找服主帮忙迁移数据
 ### 支持的皮肤来源
   - **Mojang**：请在 [https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin](https://www.minecraft.net/zh-hans/msaprofile/mygames/editskin) 上传皮肤；
-  - **AI Hobbyist**：请在 [https://skin.aihmc.top/user/closet](https://skin.aihmc.top/user/closet) 上传皮肤，可用 **AI Hobyist 账号** 直接登录；
+  - **AI Hobbyist**：请在 [https://skin.aihmc.top/user/closet](https://skin.aihmc.top/user/closet) 上传皮肤，可用 **AI Hobbyist 账号** 直接登录；
   - **LittleSkin**：请在 [https://littleskin.cn/user/closet](https://littleskin.cn/user/closet) 上传皮肤。
+  - **Ely.by**：请在 [https://ely.by/skins/add](https://ely.by/skins/add) 上传皮肤。
 ### 服务器守则
 **绝对公益，拒绝氪金**  
 > 本服严禁任何形式的商业行为。点券（全服金币）仅通过游戏行为获取，与 Vault 货币（子服金币）互通。任何试图进行金钱交易的行为将被立即永久封禁。 
@@ -54,11 +55,12 @@
 ### 客户端整合包使用说明
 **安装步骤**
 >每次更新都需要安装新整合包。
-  1. 下载并解压 **Plain Craft Launcher 2.exe**；
-  2. 下载并安装 **Java 17 或更高版本**（如果没有安装的话）；
-  3. 下载想要的 **.zip** 整合包（仅第一次）；
-  4. 将 **.zip** 文件拖入启动器窗口，等待导入完成（仅第一次）；
-  5. 选择对应的版本，登录账号，然后点击 **启动** 即可。
+  1. 下载启动器： [点我下载](https://pan.acgnai.top/AIHMC/%E6%8E%A8%E8%8D%90%E5%90%AF%E5%8A%A8%E5%99%A8)；
+  2. 如果是 **PCL2** 则直接放入任意位置，如果是 **HMCL** 则需要先解压（两个文件都需要），然后双击启动;
+  3. 下载并安装 **Java 17 或更高版本**（如果没有安装的话）；
+  4. 下载想要的 **.zip** 整合包（仅第一次）；
+  5. 将 **.zip** 文件拖入启动器窗口，等待导入完成（仅第一次）；
+  6. 选择对应的版本，登录账号，然后点击 **启动** 即可。
 
 **Java下载**
   - **Java 17，模组服推荐**：[https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html](https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html)
@@ -73,4 +75,4 @@
 **客户端下载地址**
   - [https://pan.acgnai.top/AIHMC](https://pan.acgnai.top/AIHMC)
 ### 服务器交流群
-**QQ群**：[点击加入【AI Hobbyist MC分部】](https://qm.qq.com/q/M7d6jhdgYK) (群号：545515934)
+**QQ群**：[点击加入【AI Hobbyist MC 玩家交流】](https://qm.qq.com/q/M7d6jhdgYK) (群号：545515934)
