@@ -1,5 +1,7 @@
 # 关于 AIH MC
 欢迎来到 AI Hobbyist MC 服务器！这是一个由 [AI Hobbyist](https://github.com/AI-Hobbyist) 运营的 Minecraft 服务器，旨在为玩家提供一个充满创意和乐趣的游戏环境。在这里，你可以与来自世界各地的玩家一起探索、建造和冒险，本服完全公益，一切内容都只能通过自己的努力获取。
+
+![:aih-mc](https://count.getloli.com/@:aih-mc)
 ## 服务器信息
 ### 连接地址
 - **国内玩家**：mc.aihmc.top
