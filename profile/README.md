@@ -11,6 +11,7 @@
 ### 服务器类型
 - **类型**：群组服务器
 - **盈利模式**：非盈利公益服。
+- **游戏内语音聊天**：支持（[所需模组下载](https://modrinth.com/plugin/simple-voice-chat)）
 - **玩家自定义模型/4D皮肤/5D皮肤支持**
   - **基于模组：** Figura [（点击前往下载模组）](https://pan.acgnai.top/AIHMC/4D%E7%9A%AE%E8%82%A4%E6%A8%A1%E7%BB%84(Figura))
   - **文本教程：** [https://fig.aihmc.top](https://fig.aihmc.top/)
