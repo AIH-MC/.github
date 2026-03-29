@@ -3,9 +3,8 @@
 
 ![:aih-mc](https://count.getloli.com/@:aih-mc)
 ## 服务器信息
-### 连接地址
-- **国内玩家**：mc.aihmc.top
-- **国际玩家**：gb.aihmc.top
+### 连接地址（自动检测）
+- **国内/海外玩家**：mc.aihmc.top
 ### 服务器版本
 - **Minecraft 1.20.1~1.21.11**
 ### 服务器类型
