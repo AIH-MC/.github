@@ -66,7 +66,7 @@
 
 **Java下载**
   - **Java 17，模组服推荐**：[https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html](https://www.oracle.com/java/technologies/javase/jdk17-0-13-later-archive-downloads.html)
-  - **Java 21，纯净服推荐**：[https://www.oracle.com/cn/java/technologies/downloads/#java21](https://www.oracle.com/cn/java/technologies/downloads/#java21)
+  - **Java 25，纯净服推荐**：[https://www.oracle.com/cn/java/technologies/downloads/#java25](https://www.oracle.com/cn/java/technologies/downloads/#java25)
 
 **关于 “测试用的整合包”**
   - 目前服务器正在测试一些玩法，玩家可以下载并使用这些整合包进入对应子服游玩，但请注意这些子服可能存在不稳定或不完善的情况，并且更新频繁（例如增删模组等），这种一般用于模组测试或参与建设。
