@@ -12,7 +12,7 @@
 - **盈利模式**：非盈利公益服。
 - **游戏内语音聊天**：支持（[所需模组下载](https://modrinth.com/plugin/simple-voice-chat)）
 - **玩家自定义模型/4D皮肤/5D皮肤支持**
-  - **基于模组：** Figura [（点击前往下载模组）](https://pan.acgnai.top/AIHMC/4D%E7%9A%AE%E8%82%A4%E6%A8%A1%E7%BB%84(Figura))
+  - **基于模组：** Figura [（点击前往下载模组）](https://client.aihmc.top/4D%E7%9A%AE%E8%82%A4%E6%A8%A1%E7%BB%84(Figura))
   - **文本教程：** [https://fig.aihmc.top](https://fig.aihmc.top/)
   - **视频教程：** [https://www.bilibili.com/video/BV11MU1BsEzS](https://www.bilibili.com/video/BV11MU1BsEzS)
 - **玩法**
@@ -57,7 +57,7 @@
 ### 客户端整合包使用说明
 **安装步骤**
 >每次更新都需要安装新整合包。
-  1. 下载启动器： [点我下载](https://pan.acgnai.top/AIHMC/%E6%8E%A8%E8%8D%90%E5%90%AF%E5%8A%A8%E5%99%A8)；
+  1. 下载启动器： [点我下载](https://client.aihmc.top/%E6%8E%A8%E8%8D%90%E5%90%AF%E5%8A%A8%E5%99%A8)；
   2. 如果是 **PCL2** 则直接放入任意位置，如果是 **HMCL** 则需要先解压（两个文件都需要），然后双击启动;
   3. 下载并安装 **Java 17 或更高版本**（如果没有安装的话）；
   4. 下载想要的 **.zip** 整合包（仅第一次）；
@@ -75,6 +75,6 @@
     - **搜打撤**：包含搜打撤玩法所需的模组和资源包，玩家可以体验类似《逃离塔科夫》的玩法，目前处于建设中（甚至地图还没有开建），欢迎参与建设和测试，进入方式是 ``/server tkv`` 。
 
 **客户端下载地址**
-  - [https://pan.acgnai.top/AIHMC](https://pan.acgnai.top/AIHMC)
+  - [https://client.aihmc.top](https://client.aihmc.top)
 ### 服务器交流群
 **QQ群**：[点击加入【AI Hobbyist MC 玩家交流】](https://qm.qq.com/q/M7d6jhdgYK) (群号：545515934)
