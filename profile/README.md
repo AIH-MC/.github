@@ -11,10 +11,17 @@
 - **类型**：群组服务器
 - **盈利模式**：非盈利公益服。
 - **游戏内语音聊天**：支持（[所需模组下载](https://modrinth.com/plugin/simple-voice-chat)）
-- **玩家自定义模型/4D皮肤/5D皮肤支持**
-  - **基于模组：** Figura [（点击前往下载模组）](https://client.aihmc.top/4D%E7%9A%AE%E8%82%A4%E6%A8%A1%E7%BB%84(Figura))
-  - **文本教程：** [https://fig.aihmc.top](https://fig.aihmc.top/)
-  - **视频教程：** [https://www.bilibili.com/video/BV11MU1BsEzS](https://www.bilibili.com/video/BV11MU1BsEzS)
+- **玩家自定义模型/4D皮肤/5D皮肤支持（任选其一）**
+  - **Figura（推荐）**
+    - **模组下载：** [https://client.aihmc.top/ModelLoader](https://client.aihmc.top/ModelLoader)
+    - **模型自助上传：** 游戏内衣柜上传
+    - **独特优势：** **Mesh** 和 **BlockBench v5** 支持；**正版大服无忧通行**（仅客户端，只需双方在客户端安装并连接到同一个后端）；强大的 **Lua** 脚本系统。
+    - **公共后端：** 5d.aihmc.top
+    - **注：** 如果是下载服务器整合包，已内置，无需安装。如果是如上地址下载的，已默认设置为自己的后端。
+  - **YSM（兼容）**
+    - **模组下载：** [https://modrinth.com/mod/yes-steve-model](https://modrinth.com/mod/yes-steve-model)
+    - **模型自助上传：** [https://ysm.aihmc.top](https://ysm.aihmc.top/)
+    - **注：** 需要版本统一，当前版本 **2.6.5**
 - **玩法**
   - **已稳定：** 纯净生存，1.21.11开荒；
   - **建设中：** 搜打撤（类塔科夫玩法）；
